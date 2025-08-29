@@ -61,7 +61,7 @@ Try the app here: Sales Agent on Streamlit
 ## Installation & Setup
   
   1. Clone the Repository
-     git clone https://github.com/yourusername/sales-agent.git
+     git clone https://github.com/ketuser/sales-agent.git
      cd sales-agent
   
   2. Create Virtual Environment
