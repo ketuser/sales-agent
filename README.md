@@ -124,7 +124,7 @@ Sources
 
 Anatoly Lunev  
 📍 Brooklyn, NY  
-🌐 [LinkedIn]([https://www.linkedin.com/in/anatoly-lunev]) | [GitHub](https://github.com/ketuser)
+🌐 [LinkedIn](https://www.linkedin.com/in/anatoly-lunev) | [GitHub](https://github.com/ketuser)
 
 ## License
 
