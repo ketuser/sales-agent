@@ -122,9 +122,9 @@ Sources
 
 ##  Author
 
-Anatoly Lunev
-📍 Brooklyn, NY
-🌐 LinkedIn | GitHub
+Anatoly Lunev  
+📍 Brooklyn, NY  
+🌐 [LinkedIn]([https://www.linkedin.com/in/anatoly-lunev/]) | [GitHub](https://github.com/ketuser)
 
 ## License
 
