@@ -39,7 +39,7 @@ Built with LangChain, Tavily Search, and Groq GPT models, deployed via Streamlit
 
 ## Live Demo
 
-Try the app here: (https://sales-agent-audr5uwqr7dggbjuq88n9v.streamlit.app/)
+Try the app here: https://sales-agent-audr5uwqr7dggbjuq88n9v.streamlit.app/
 
 ## Features
 
